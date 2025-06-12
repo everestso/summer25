@@ -1,5 +1,9 @@
 # summer25
 
+## A Little Pong
+
+[Pong Docs](https://ale.farama.org/environments/pong/)
+
 ## 🎮 DQN Pong Agent Evaluation
 
 Watch how performance improves as training progresses:
