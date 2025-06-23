@@ -171,3 +171,39 @@
 * AI "club membership" is presented as significant historical milestones and modern leadership rather than exclusive membership.
 * The list highlights pivotal contributions, research breakthroughs, and contemporary leadership in global AI development.
 
+# Membership Strength: Countries Participating Across Clubs
+
+| Country               | Nuclear | Missile | Satellite | Moon Exploration | Manned Space | Deep Space |  AI |
+| --------------------- | :-----: | :-----: | :-------: | :--------------: | :----------: | :--------: | :-: |
+| 🇺🇸 **USA**          |    ✅    |    ✅    |     ✅     |         ✅        |       ✅      |      ✅     |  ✅  |
+| 🇷🇺 **Russia**       |    ✅    |    ✅    |     ✅     |         ✅        |       ✅      |      ✅     |  ❌  |
+| 🇨🇳 **China**        |    ✅    |    ✅    |     ✅     |         ✅        |       ✅      |      ✅     |  ✅  |
+| 🇬🇧 **UK**           |    ✅    |    ✅    |     ✅     |         ❌        |       ❌      |      ❌     |  ✅  |
+| 🇫🇷 **France**       |    ✅    |    ✅    |     ✅     |         ❌        |       ❌      |      ❌     |  ✅  |
+| 🇮🇳 **India**        |    ✅    |    ✅    |     ✅     |         ✅        |       ❌      |      ✅     |  ❌  |
+| 🇮🇱 **Israel**       |    ✅    |    ✅    |     ✅     |         ❌        |       ❌      |      ❌     |  ✅  |
+| 🇯🇵 **Japan**        |    ❌    |    ❌    |     ✅     |         ✅        |       ❌      |      ✅     |  ✅  |
+| 🇨🇦 **Canada**       |    ❌    |    ❌    |     ❌     |         ❌        |       ❌      |      ❌     |  ✅  |
+| 🇩🇪 **Germany**      |    ❌    |    ✅    |     ❌     |         ❌        |       ❌      |      ❌     |  ❌  |
+| 🇰🇵 **North Korea**  |    ✅    |    ✅    |     ✅     |         ❌        |       ❌      |      ❌     |  ❌  |
+| 🇰🇷 **South Korea**  |    ❌    |    ❌    |     ❌     |         ❌        |       ❌      |      ❌     |  ✅  |
+| 🇵🇰 **Pakistan**     |    ✅    |    ✅    |     ❌     |         ❌        |       ❌      |      ❌     |  ❌  |
+| 🇮🇷 **Iran**         |    ❌    |    ✅    |     ✅     |         ❌        |       ❌      |      ❌     |  ❌  |
+| 🇪🇺 **ESA (Europe)** |    ❌    |    ❌    |     ❌     |         ❌        |       ❌      |      ✅     |  ❌  |
+| 🇦🇪 **UAE**          |    ❌    |    ❌    |     ❌     |         ❌        |       ❌      |      ✅     |  ❌  |
+
+### Legend:
+
+* ✅ **Member**
+* ❌ **Not a Member**
+
+### Summary Insights:
+
+* **USA** and **China** maintain comprehensive leadership.
+* **Russia** is a major player except in modern AI developments.
+* **UK** and **France** have strategic strengths in technology and AI.
+* **India** exhibits broad capabilities, though lacks human spaceflight and AI prominence.
+* **Japan** and **Israel** have notable targeted technological expertise.
+* **Canada, Germany, South Korea, and UAE** show specialized but limited membership.
+
+
