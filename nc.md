@@ -104,3 +104,70 @@
 | 🇮🇳 **India**       | Mars Orbiter Mission | Mars orbiter       | Nov 5, 2013  |
 | 🇦🇪 **UAE**         | Hope Probe           | Mars orbiter       | Feb 9, 2021  |
 
+
+# Artificial Intelligence Club Membership
+
+## 1. Early AI Pioneers (1940s - 1960s)
+
+| Country      | Notable Milestones                              | Year(s) | Remarks                                        |
+| ------------ | ----------------------------------------------- | ------- | ---------------------------------------------- |
+| 🇬🇧 **UK**  | Alan Turing’s concept of Machine Intelligence   | 1950    | Turing Test proposed                           |
+| 🇺🇸 **USA** | Dartmouth Conference (birth of "AI" as a field) | 1956    | Official term "Artificial Intelligence" coined |
+| 🇺🇸 **USA** | Logic Theorist (first AI program)               | 1956    | Newell, Simon, Shaw                            |
+| 🇺🇸 **USA** | Perceptron (early neural network)               | 1958    | Frank Rosenblatt                               |
+
+---
+
+## 2. Development of Expert Systems (1970s - 1980s)
+
+| Country        | Notable System              | Year(s)  | Remarks                                                        |
+| -------------- | --------------------------- | -------- | -------------------------------------------------------------- |
+| 🇺🇸 **USA**   | DENDRAL (chemical analysis) | 1965-70s | First major expert system                                      |
+| 🇺🇸 **USA**   | MYCIN (medical diagnosis)   | 1970s    | Influential expert system demonstrating reasoning capabilities |
+| 🇯🇵 **Japan** | Fifth Generation Project    | 1982     | National effort to lead global AI research                     |
+
+---
+
+## 3. Advances in Machine Learning (1980s - 2000s)
+
+| Country         | Notable Milestone                            | Year(s) | Remarks                                  |
+| --------------- | -------------------------------------------- | ------- | ---------------------------------------- |
+| 🇺🇸 **USA**    | Backpropagation algorithm                    | 1986    | Rumelhart, Hinton, Williams              |
+| 🇨🇦 **Canada** | Significant contributions by Geoffrey Hinton | 1980s+  | Neural network renaissance               |
+| 🇫🇷 **France** | Yann LeCun’s convolutional neural networks   | 1989    | LeNet architecture for digit recognition |
+
+---
+
+## 4. Modern AI & Deep Learning Era (2000s - Present)
+
+| Country         | Milestone                             | Year(s) | Remarks                                                |
+| --------------- | ------------------------------------- | ------- | ------------------------------------------------------ |
+| 🇺🇸 **USA**    | IBM Watson (Jeopardy! victory)        | 2011    | Public demonstration of advanced AI question-answering |
+| 🇨🇦 **Canada** | AlexNet (deep learning breakthrough)  | 2012    | Krizhevsky, Hinton, ImageNet competition victory       |
+| 🇬🇧 **UK**     | DeepMind AlphaGo                      | 2016    | First AI to defeat human Go champion                   |
+| 🇨🇳 **China**  | AI strategy and widespread deployment | 2017+   | Major government investments and deployment in AI      |
+| 🇺🇸 **USA**    | GPT models (OpenAI)                   | 2018+   | Advanced language modeling and generative AI           |
+| 🇺🇸 **USA**    | Google’s Transformer architecture     | 2017    | Transformer models redefining NLP                      |
+
+---
+
+## 5. Global AI Leadership Today (2020s)
+
+| Country              | Strengths & Contributions                                                | Remarks                                                       |
+| -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 🇺🇸 **USA**         | Major tech companies leading AI innovation (Google, OpenAI, Microsoft)   | Leader in AI research, commercial AI solutions                |
+| 🇨🇳 **China**       | Rapid deployment of AI, particularly surveillance and facial recognition | Government-supported AI strategy                              |
+| 🇬🇧 **UK**          | Cutting-edge research via DeepMind                                       | Focused on reinforcement learning, breakthroughs in gaming AI |
+| 🇨🇦 **Canada**      | Renowned academic AI institutions (e.g., University of Toronto)          | Key researchers, global AI leadership in neural nets          |
+| 🇫🇷 **France**      | Strong in AI ethics and research (e.g., INRIA)                           | Important contributions to EU AI policies                     |
+| 🇮🇱 **Israel**      | AI startups, cybersecurity, and defense applications                     | Thriving startup ecosystem and innovation in applied AI       |
+| 🇯🇵 **Japan**       | Robotics integration, AI-driven automation                               | Leader in robotics, manufacturing AI applications             |
+| 🇰🇷 **South Korea** | AI-driven consumer technology (Samsung, LG)                              | Rapid growth in practical AI and smart devices                |
+
+---
+
+## Notes:
+
+* AI "club membership" is presented as significant historical milestones and modern leadership rather than exclusive membership.
+* The list highlights pivotal contributions, research breakthroughs, and contemporary leadership in global AI development.
+
