@@ -206,4 +206,30 @@
 * **Japan** and **Israel** have notable targeted technological expertise.
 * **Canada, Germany, South Korea, and UAE** show specialized but limited membership.
 
+# Nations by Economic Strength (2025)
 
+| Rank | Country            | GDP (Trillions USD) | Notable Economic Strengths               |
+| ---- | ------------------ | ------------------- | ---------------------------------------- |
+| 1    | 🇺🇸 **USA**       | \$29.0              | Technology, finance, consumer markets    |
+| 2    | 🇨🇳 **China**     | \$20.2              | Manufacturing, technology, exports       |
+| 3    | 🇯🇵 **Japan**     | \$4.5               | Advanced manufacturing, automotive, tech |
+| 4    | 🇩🇪 **Germany**   | \$4.3               | Manufacturing, automotive, engineering   |
+| 5    | 🇮🇳 **India**     | \$4.0               | Services, IT/software, manufacturing     |
+| 6    | 🇬🇧 **UK**        | \$3.3               | Finance, pharmaceuticals, services       |
+| 7    | 🇫🇷 **France**    | \$3.0               | Aerospace, luxury goods, agriculture     |
+| 8    | 🇮🇹 **Italy**     | \$2.1               | Manufacturing, luxury goods, tourism     |
+| 9    | 🇧🇷 **Brazil**    | \$2.0               | Agriculture, commodities, manufacturing  |
+| 10   | 🇨🇦 **Canada**    | \$2.0               | Energy, natural resources, services      |
+| 11   | 🇰🇷 **S. Korea**  | \$1.8               | Technology, automotive, electronics      |
+| 12   | 🇷🇺 **Russia**    | \$1.7               | Energy, minerals, defense                |
+| 13   | 🇦🇺 **Australia** | \$1.7               | Mining, agriculture, services            |
+| 14   | 🇪🇸 **Spain**     | \$1.6               | Tourism, agriculture, renewable energy   |
+| 15   | 🇲🇽 **Mexico**    | \$1.5               | Manufacturing, automotive, exports       |
+
+### Notable Observations:
+
+* **USA and China** dominate globally by significant margins, combining nearly half of global GDP.
+* **Japan and Germany** remain strong economic hubs, driven by advanced technology and manufacturing.
+* **India** continues its rapid growth, driven by service sectors and technology exports.
+* Countries like **Russia and Brazil** depend significantly on resource-based economies.
+* **South Korea** showcases strength in high-tech manufacturing sectors, including semiconductors and electronics.
